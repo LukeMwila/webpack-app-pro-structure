@@ -4,7 +4,8 @@
   "description": "Sample webpack app",
   "main": "index.js",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "start": "webpack-dev-server --entry ./src/js/app.js --output-filename ./dist/main.js"
   },
   "repository": {
     "type": "git",
