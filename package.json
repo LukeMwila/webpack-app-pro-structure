@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LukeMwila/webpack-app/issues"
   },
-  "homepage": "https://github.com/LukeMwila/webpack-app#readme"
+  "homepage": "https://github.com/LukeMwila/webpack-app#readme",
+  "devDependencies": {
+    "webpack-cli": "^2.0.13"
+  }
 }
